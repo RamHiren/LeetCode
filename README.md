@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RamHiren/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/RamHiren/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/RamHiren/LeetCode/tree/master/0066-plus-one) |
 | [0566-reshape-the-matrix](https://github.com/RamHiren/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/RamHiren/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/RamHiren/LeetCode/tree/master/0898-transpose-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/RamHiren/LeetCode/tree/master/0066-plus-one) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RamHiren/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RamHiren/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/RamHiren/LeetCode/tree/master/1635-number-of-good-pairs) |
