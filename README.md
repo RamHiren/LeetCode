@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RamHiren/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RamHiren/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/RamHiren/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/RamHiren/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/RamHiren/LeetCode/tree/master/0189-rotate-array) |
 | [0566-reshape-the-matrix](https://github.com/RamHiren/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/RamHiren/LeetCode/tree/master/0861-flipping-an-image) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RamHiren/LeetCode/tree/master/0075-sort-colors) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RamHiren/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RamHiren/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/RamHiren/LeetCode/tree/master/0189-rotate-array) |
 | [0861-flipping-an-image](https://github.com/RamHiren/LeetCode/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
