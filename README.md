@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RamHiren/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RamHiren/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/RamHiren/LeetCode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/RamHiren/LeetCode/tree/master/0198-house-robber) |
 | [0566-reshape-the-matrix](https://github.com/RamHiren/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/RamHiren/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/RamHiren/LeetCode/tree/master/0898-transpose-matrix) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/RamHiren/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RamHiren/LeetCode/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/RamHiren/LeetCode/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
