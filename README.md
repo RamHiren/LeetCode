@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RamHiren/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RamHiren/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RamHiren/LeetCode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/RamHiren/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/RamHiren/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RamHiren/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RamHiren/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RamHiren/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/RamHiren/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/RamHiren/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/RamHiren/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/RamHiren/LeetCode/tree/master/0898-transpose-matrix) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RamHiren/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/RamHiren/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/RamHiren/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/RamHiren/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/RamHiren/LeetCode/tree/master/0898-transpose-matrix) |
