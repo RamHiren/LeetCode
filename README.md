@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RamHiren/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RamHiren/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/RamHiren/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/RamHiren/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RamHiren/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RamHiren/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RamHiren/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RamHiren/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/RamHiren/LeetCode/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/RamHiren/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RamHiren/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RamHiren/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/RamHiren/LeetCode/tree/master/0924-fair-candy-swap) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RamHiren/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RamHiren/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RamHiren/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/RamHiren/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/RamHiren/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/RamHiren/LeetCode/tree/master/0441-arranging-coins) |
 | [1372-check-if-it-is-a-good-array](https://github.com/RamHiren/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RamHiren/LeetCode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/RamHiren/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RamHiren/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RamHiren/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/RamHiren/LeetCode/tree/master/0924-fair-candy-swap) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RamHiren/LeetCode/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/RamHiren/LeetCode/tree/master/0861-flipping-an-image) |
 ## Divide and Conquer
 |  |
@@ -165,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RamHiren/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RamHiren/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RamHiren/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/RamHiren/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RamHiren/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/RamHiren/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RamHiren/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
