@@ -1,12 +1,12 @@
 class Solution {
     public int findPeakElement(int[] a) {
-        if(a.length == 1){
-            return 0;
-        }
-        if(a.length == 2){
-            if(a[0]>a[1]) return 0;
-            else return 1;
-        }
+        // if(a.length == 1){
+        //     return 0;
+        // }
+        // if(a.length == 2){
+        //     if(a[0]>a[1]) return 0;
+        //     else return 1;
+        // }
         int s =1;
         int e = a.length -1;
 
