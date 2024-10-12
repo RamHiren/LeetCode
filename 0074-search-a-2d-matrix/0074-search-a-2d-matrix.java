@@ -7,9 +7,9 @@ class Solution {
             if(a[r][c]==t){
                 return true;
             }
-            else if(a[r][c] < t){
+            else if(t > a[r][c]){
                 r++;
-            }else{ //a[r][c] > t
+            }else{ //t < a[r][c]
                 c--;
             }
         }
