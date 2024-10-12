@@ -9,7 +9,7 @@ class Solution {
             }
             else if(a[r][c] < t){
                 r++;
-            }else{
+            }else{ //a[r][c] > t
                 c--;
             }
         }
