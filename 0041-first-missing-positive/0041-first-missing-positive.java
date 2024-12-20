@@ -1,35 +1,25 @@
 class Solution {
     public int firstMissingPositive(int[] a) {
-       int min=1;
-        int f=0;
-        
-        Set<Integer> s  = new HashSet<>();
-         for (int i = 0; i < a.length; i++) {
-             if(a[i]<=0){
-                 continue;
-             }
-             s.add(a[i]);
-         }
-         List<Integer> l = new ArrayList<>(s);
-         Collections.sort(l);
-         System.out.println(l);
-         for (int i = 1; i <= l.size(); i++) {
-           
-             if(i!=l.get(i-1)){
-                 min=i;
-                 f++;
-                 break;
-             }
-         }
-        
-         if(f==0){
-             min=l.size()+1;
-         }
+       int i = 0;
+        while (i < a.length) {
+            int correct = a[i] - 1;
+            if (a[i] > 0 && a[i] <= a.length && a[i] != a[correct]) {
+               int t = a[i];
+               a[i] = a[correct];
+               a[correct]=t;
+            } else {
+                i++;
+            }
+        }
 
-         return min;
+        // search for first missing number
+        for (int index = 0; index < a.length; index++) {
+            if (a[index] != index + 1) {
+                return index + 1;
+            }
+        }
 
-
-
-
+        // case 2
+        return a.length + 1;
     }
 }
