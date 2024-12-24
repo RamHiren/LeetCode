@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RamHiren/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RamHiren/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RamHiren/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/RamHiren/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RamHiren/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RamHiren/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RamHiren/LeetCode/tree/master/0055-jump-game) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RamHiren/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/RamHiren/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/RamHiren/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/RamHiren/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RamHiren/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RamHiren/LeetCode/tree/master/0268-missing-number) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RamHiren/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RamHiren/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RamHiren/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/RamHiren/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RamHiren/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RamHiren/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RamHiren/LeetCode/tree/master/0217-contains-duplicate) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RamHiren/LeetCode/tree/master/0049-group-anagrams) |
 | [1899-count-items-matching-a-rule](https://github.com/RamHiren/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RamHiren/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
