@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RamHiren/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/RamHiren/LeetCode/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/RamHiren/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RamHiren/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RamHiren/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RamHiren/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RamHiren/LeetCode/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RamHiren/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/RamHiren/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RamHiren/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RamHiren/LeetCode/tree/master/0189-rotate-array) |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RamHiren/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RamHiren/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
