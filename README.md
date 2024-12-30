@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RamHiren/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/RamHiren/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RamHiren/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamHiren/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RamHiren/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Simulation
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/RamHiren/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RamHiren/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/RamHiren/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamHiren/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
