@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RamHiren/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/RamHiren/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/RamHiren/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1894-merge-strings-alternately](https://github.com/RamHiren/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/RamHiren/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RamHiren/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RamHiren/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/RamHiren/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/RamHiren/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RamHiren/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1894-merge-strings-alternately](https://github.com/RamHiren/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RamHiren/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
 |  |
