@@ -6,8 +6,8 @@ class Solution {
         }
         if(h.size()-1 >= a.length/2){
             return a.length/2;
-        }else{
-            return h.size();
         }
+            return h.size();
+        
     }
 }
