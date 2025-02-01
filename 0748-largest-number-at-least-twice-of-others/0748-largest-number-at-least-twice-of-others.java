@@ -12,8 +12,8 @@ class Solution {
         }
         System.out.print(ans);
         for(int i =0;i<a.length;i++){
-            if(i == ans) continue;
-            if(a[i]*2 > max){
+           
+            if(a[i]*2 > max && a[i] != max){
                 return -1;
             }
         }
