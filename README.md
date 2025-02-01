@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/RamHiren/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RamHiren/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamHiren/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2102-find-the-middle-index-in-array](https://github.com/RamHiren/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RamHiren/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Simulation
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/RamHiren/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/RamHiren/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RamHiren/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2102-find-the-middle-index-in-array](https://github.com/RamHiren/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Matrix
 |  |
 | ------- |
