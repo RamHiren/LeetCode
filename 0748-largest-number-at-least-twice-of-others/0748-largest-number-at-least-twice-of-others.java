@@ -13,7 +13,7 @@ class Solution {
         System.out.print(ans);
         for(int i =0;i<a.length;i++){
            
-            if(a[i]*2 > max && a[i] != max){
+            if(a[i] != max &&a[i]*2 > max ){
                 return -1;
             }
         }
