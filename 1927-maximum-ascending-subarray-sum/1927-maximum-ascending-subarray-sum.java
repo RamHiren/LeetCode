@@ -12,7 +12,7 @@ class Solution {
                     m=s;
                    
                 }
-                s=0;
+                // s=0;
                 s=a[i];
             }
 
