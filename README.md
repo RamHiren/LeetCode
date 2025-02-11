@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/RamHiren/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/RamHiren/LeetCode/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/RamHiren/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/RamHiren/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/RamHiren/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/RamHiren/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RamHiren/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RamHiren/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/RamHiren/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/RamHiren/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamHiren/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/RamHiren/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Two Pointers
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/RamHiren/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/RamHiren/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/RamHiren/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
