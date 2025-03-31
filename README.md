@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/RamHiren/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RamHiren/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/RamHiren/LeetCode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/RamHiren/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RamHiren/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/RamHiren/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/RamHiren/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/RamHiren/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RamHiren/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RamHiren/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/RamHiren/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/RamHiren/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/RamHiren/LeetCode/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/RamHiren/LeetCode/tree/master/0924-fair-candy-swap) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RamHiren/LeetCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/RamHiren/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/RamHiren/LeetCode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RamHiren/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RamHiren/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/RamHiren/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RamHiren/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Heap (Priority Queue)
 |  |
