@@ -20,7 +20,7 @@ class Solution {
         System.out.println(c);
         ListNode ans = head;
         int p = 0;
-        while(p<((c/2)+1)-1){
+        while(p<(c/2)){
             p++;
             ans = ans.next;
         }
