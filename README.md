@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RamHiren/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/RamHiren/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RamHiren/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RamHiren/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RamHiren/LeetCode/tree/master/0342-power-of-four) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RamHiren/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/RamHiren/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RamHiren/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RamHiren/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
