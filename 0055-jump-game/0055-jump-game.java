@@ -1,31 +1,13 @@
 class Solution {
-    public boolean canJump(int[] a){
-        
-        if(a[0]>=a.length-1){
-            return true;
-        }
-       if(a[0]==0){
-            return false;
-        }
+    public boolean canJump(int[] a) {
+        int finalPos = a.length-1;
 
-       for(int i =0;i<a.length;i++){
-        if(a[i] == 0){
-            int ind =i;
-            int f = 0;
-
-            for(int j=0;j<ind;j++){
-                if(a[j]+j >=a.length-1) return true;
-
-                if(a[j]+j>ind){
-                    f=1;
-                    // break;
-                }
+        for(int i =a.length-2;i>=0;i--){
+            if(a[i]+i >= finalPos){
+                finalPos = i;
             }
-
-
-            if(f==0) return false;
         }
-       }
-       return true;
+
+        return finalPos==0;
     }
 }
