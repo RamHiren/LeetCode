@@ -17,12 +17,10 @@ class Solution {
 
                 if(top>0){
                     ans+=')';
-                    s.pop();
-                    top--;
-                }else{
-                    s.pop();
-                    top--;
+                   
                 }
+                 s.pop();
+                    top--;
 
             }
         }
