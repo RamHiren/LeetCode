@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/RamHiren/LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/RamHiren/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/RamHiren/LeetCode/tree/master/0197-rising-temperature) |
+| [1179-game-play-analysis-i](https://github.com/RamHiren/LeetCode/tree/master/1179-game-play-analysis-i) |
 ## Design
 |  |
 | ------- |
