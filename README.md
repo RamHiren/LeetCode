@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RamHiren/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/RamHiren/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/RamHiren/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1848-sum-of-unique-elements](https://github.com/RamHiren/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/RamHiren/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RamHiren/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RamHiren/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/RamHiren/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RamHiren/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/RamHiren/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/RamHiren/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RamHiren/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RamHiren/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RamHiren/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/RamHiren/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/RamHiren/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1848-sum-of-unique-elements](https://github.com/RamHiren/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RamHiren/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sorting
 |  |
