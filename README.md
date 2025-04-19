@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RamHiren/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RamHiren/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/RamHiren/LeetCode/tree/master/0792-binary-search) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/RamHiren/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0861-flipping-an-image](https://github.com/RamHiren/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RamHiren/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/RamHiren/LeetCode/tree/master/0898-transpose-matrix) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RamHiren/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RamHiren/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RamHiren/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/RamHiren/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0924-fair-candy-swap](https://github.com/RamHiren/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/RamHiren/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/RamHiren/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/RamHiren/LeetCode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RamHiren/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/RamHiren/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/RamHiren/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0861-flipping-an-image](https://github.com/RamHiren/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/RamHiren/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/RamHiren/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RamHiren/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RamHiren/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RamHiren/LeetCode/tree/master/0792-binary-search) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/RamHiren/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RamHiren/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/RamHiren/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/RamHiren/LeetCode/tree/master/0924-fair-candy-swap) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0802-k-th-smallest-prime-fraction](https://github.com/RamHiren/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RamHiren/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String Matching
 |  |
