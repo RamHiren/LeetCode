@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/RamHiren/LeetCode/tree/master/0610-triangle-judgement) |
 | [1179-game-play-analysis-i](https://github.com/RamHiren/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1827-invalid-tweets](https://github.com/RamHiren/LeetCode/tree/master/1827-invalid-tweets) |
+| [1908-recyclable-and-low-fat-products](https://github.com/RamHiren/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Design
 |  |
 | ------- |
