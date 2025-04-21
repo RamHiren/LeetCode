@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/RamHiren/LeetCode/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/RamHiren/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/RamHiren/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0944-smallest-range-i](https://github.com/RamHiren/LeetCode/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/RamHiren/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/RamHiren/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/RamHiren/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/RamHiren/LeetCode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RamHiren/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RamHiren/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0944-smallest-range-i](https://github.com/RamHiren/LeetCode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/RamHiren/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/RamHiren/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1372-check-if-it-is-a-good-array](https://github.com/RamHiren/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
