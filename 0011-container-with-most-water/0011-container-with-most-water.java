@@ -1,20 +1,20 @@
 class Solution {
     public int maxArea(int[] a) {
-        int ans = 0;
-        int s = 0;
-        int e = a.length-1;
+        int i=0;
+        int j =a.length-1;
+        
 
+        int ans =0;
+        while(i<j){
+            int w = Math.abs(j - i);
+            int h = Math.min(a[i],a[j]);
 
-        while(s<e){
-            int h = Math.min(a[s],a[e]);
-            int w = e-s;
-            int c = w*h;
+            ans = Math.max(ans,w*h);
 
-            ans = Math.max(ans, c);
-            if(a[s] < a[e]){
-               s++;
+            if(a[i]<a[j]){
+                i++;
             }else{
-                e--;
+                j--;
             }
         }
 
