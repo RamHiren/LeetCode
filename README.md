@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-more-than-5-students](https://github.com/RamHiren/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0607-sales-person](https://github.com/RamHiren/LeetCode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/RamHiren/LeetCode/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/RamHiren/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/RamHiren/LeetCode/tree/master/0620-not-boring-movies) |
 | [1179-game-play-analysis-i](https://github.com/RamHiren/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1827-invalid-tweets](https://github.com/RamHiren/LeetCode/tree/master/1827-invalid-tweets) |
