@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/RamHiren/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/RamHiren/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/RamHiren/LeetCode/tree/master/0575-distribute-candies) |
+| [0611-valid-triangle-number](https://github.com/RamHiren/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RamHiren/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RamHiren/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/RamHiren/LeetCode/tree/master/0724-find-pivot-index) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/RamHiren/LeetCode/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/RamHiren/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/RamHiren/LeetCode/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/RamHiren/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RamHiren/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RamHiren/LeetCode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/RamHiren/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/RamHiren/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/RamHiren/LeetCode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RamHiren/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0611-valid-triangle-number](https://github.com/RamHiren/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/RamHiren/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RamHiren/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0861-flipping-an-image](https://github.com/RamHiren/LeetCode/tree/master/0861-flipping-an-image) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/RamHiren/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/RamHiren/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/RamHiren/LeetCode/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/RamHiren/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/RamHiren/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RamHiren/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RamHiren/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/RamHiren/LeetCode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/RamHiren/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RamHiren/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/RamHiren/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RamHiren/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RamHiren/LeetCode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RamHiren/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
