@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/RamHiren/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/RamHiren/LeetCode/tree/master/0620-not-boring-movies) |
 | [1179-game-play-analysis-i](https://github.com/RamHiren/LeetCode/tree/master/1179-game-play-analysis-i) |
+| [1258-article-views-i](https://github.com/RamHiren/LeetCode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/RamHiren/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/RamHiren/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Design
