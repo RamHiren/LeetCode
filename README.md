@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RamHiren/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RamHiren/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/RamHiren/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/RamHiren/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/RamHiren/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RamHiren/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RamHiren/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RamHiren/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/RamHiren/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/RamHiren/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/RamHiren/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RamHiren/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/RamHiren/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/RamHiren/LeetCode/tree/master/0392-is-subsequence) |
