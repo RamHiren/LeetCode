@@ -9,7 +9,6 @@ class Solution {
                 
                 sum = sum + (n/i);
 
-                System.out.println(i +"X"+ (n/i));
             }
         }
 
