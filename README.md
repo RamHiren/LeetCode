@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/RamHiren/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RamHiren/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/RamHiren/LeetCode/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/RamHiren/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RamHiren/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RamHiren/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0944-smallest-range-i](https://github.com/RamHiren/LeetCode/tree/master/0944-smallest-range-i) |
