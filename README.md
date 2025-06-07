@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RamHiren/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RamHiren/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/RamHiren/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/RamHiren/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RamHiren/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RamHiren/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RamHiren/LeetCode/tree/master/0268-missing-number) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RamHiren/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RamHiren/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RamHiren/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/RamHiren/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/RamHiren/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RamHiren/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RamHiren/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/RamHiren/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/RamHiren/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RamHiren/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/RamHiren/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RamHiren/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/RamHiren/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RamHiren/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RamHiren/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/RamHiren/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/RamHiren/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/RamHiren/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RamHiren/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/RamHiren/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RamHiren/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -662,4 +666,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RamHiren/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/RamHiren/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RamHiren/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/RamHiren/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
