@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/RamHiren/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/RamHiren/LeetCode/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/RamHiren/LeetCode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/RamHiren/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/RamHiren/LeetCode/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/RamHiren/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RamHiren/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/RamHiren/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/RamHiren/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/RamHiren/LeetCode/tree/master/0742-to-lower-case) |
+| [0874-backspace-string-compare](https://github.com/RamHiren/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RamHiren/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/RamHiren/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RamHiren/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/RamHiren/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RamHiren/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0861-flipping-an-image](https://github.com/RamHiren/LeetCode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/RamHiren/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/RamHiren/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/RamHiren/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/RamHiren/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/RamHiren/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RamHiren/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/RamHiren/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0874-backspace-string-compare](https://github.com/RamHiren/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RamHiren/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/RamHiren/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/RamHiren/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
