@@ -2,7 +2,7 @@ class Solution {
     public int removeDuplicates(int[] a) {
         ArrayList<Integer> l = new ArrayList<>();
 
-        for(int i : a){
+        for(int i:a){
             if(!l.contains(i)){
                 l.add(i);
             }
