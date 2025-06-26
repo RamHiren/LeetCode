@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/RamHiren/LeetCode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/RamHiren/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RamHiren/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RamHiren/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/RamHiren/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/RamHiren/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/RamHiren/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RamHiren/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RamHiren/LeetCode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/RamHiren/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RamHiren/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/RamHiren/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RamHiren/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2102-find-the-middle-index-in-array](https://github.com/RamHiren/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/RamHiren/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RamHiren/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/RamHiren/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RamHiren/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1848-sum-of-unique-elements](https://github.com/RamHiren/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RamHiren/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RamHiren/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/RamHiren/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/RamHiren/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RamHiren/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RamHiren/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RamHiren/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Interactive
 |  |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/RamHiren/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/RamHiren/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RamHiren/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RamHiren/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RamHiren/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting Sort
 |  |
