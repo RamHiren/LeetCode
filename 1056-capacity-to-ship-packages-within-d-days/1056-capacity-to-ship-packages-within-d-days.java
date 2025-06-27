@@ -1,67 +1,39 @@
 class Solution {
-    public int shipWithinDays(int[] w, int d) {
-        /* Linear serach 
-        int min = w[0];
-        int max = 0;
-        for (int i : w) {
-            max += i;
-            if (i > min) {
-                min = i;
-            }
+    public int shipWithinDays(int[] a, int x) {
+        int sum =0;
+        int min=0;
+        for(int i:a){
+            sum+=i;
+            min =Math.max(min,i);
         }
-        System.out.println(min);
-        System.out.println(max);
 
-        for (int i = min; i <= max; i++) {
-            int day = 1;
-            int currload = 0;
-            for (int j = 0; j < w.length; j++) {
-                if (currload + w[j] > i) {
-                    day++;
-                    currload = 0;
-                }
-                currload += w[j];
-            }
-            if (day <= d) {
-                return i;
+        int s = min;
+        int e = sum;
+
+        while(s<e){
+            int m = (s + e)/2;
+
+            if(helper(a,m)<=x){
+                e=m;
+            }else{
+                s=m+1;
             }
         }
 
-        return 1;*/
-
-
-        int min = w[0];
-    int max = 0;
-    for (int i : w) {
-        max += i;
-        if(i > min){
-            min = i;  
-        }
+        return s;
+        
     }
 
-    while (min < max) {
-        int mid = min + (max-min)/2;
-
-        if(func(w, mid, d)){
-            max=mid;
-        }else{
-            min=mid+1;
-        }
-    }
-    return min;
-}
-
-    private static boolean func(int[] w, int mid, int d) {
-        int day = 1;
-        int currload = 0;
-        for (int i = 0; i < w.length; i++) {
-            if(currload+w[i] > mid){
-                day++; 
-                currload = 0;  
+    public int helper(int[] a,int m){
+        int d=1;
+        int load=0;
+        for(int i=0;i<a.length;i++){
+            if(a[i]+load>m){
+                d++;
+                load =0;
             }
-            currload += w[i];
+            load +=a[i]; 
         }
-        return day <= d;
+        return d;
     }
-    
 }
