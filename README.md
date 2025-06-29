@@ -727,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/RamHiren/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/RamHiren/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RamHiren/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/RamHiren/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RamHiren/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/RamHiren/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RamHiren/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RamHiren/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/RamHiren/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RamHiren/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -803,4 +805,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/RamHiren/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RamHiren/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/RamHiren/LeetCode/tree/master/0860-design-circular-queue) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/RamHiren/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
