@@ -4,10 +4,11 @@ class Solution {
    
         for(int i=0;i<a.length;i++){
             if(a[i].equals("+")){
-                int top = s.pop();
-                int newtop = top + s.peek();
-                s.push(top);
-                s.push(newtop);
+                int x1=s.pop();
+                int x2=s.pop();
+                s.push(x2);
+                s.push(x1);
+                s.push(x1+x2);
             }else if(a[i].equals("D")){
                 int x=s.peek();
                 s.push(2*x);
