@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/RamHiren/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/RamHiren/LeetCode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RamHiren/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0860-design-circular-queue](https://github.com/RamHiren/LeetCode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/RamHiren/LeetCode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RamHiren/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/RamHiren/LeetCode/tree/master/0898-transpose-matrix) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/RamHiren/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RamHiren/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RamHiren/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0860-design-circular-queue](https://github.com/RamHiren/LeetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/RamHiren/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RamHiren/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RamHiren/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/RamHiren/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RamHiren/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RamHiren/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0860-design-circular-queue](https://github.com/RamHiren/LeetCode/tree/master/0860-design-circular-queue) |
 ## Randomized
 |  |
 | ------- |
@@ -794,4 +797,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RamHiren/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RamHiren/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/RamHiren/LeetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
