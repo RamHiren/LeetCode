@@ -735,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/RamHiren/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RamHiren/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RamHiren/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RamHiren/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/RamHiren/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RamHiren/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/RamHiren/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RamHiren/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/RamHiren/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RamHiren/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/RamHiren/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RamHiren/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -817,4 +820,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/RamHiren/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RamHiren/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RamHiren/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
