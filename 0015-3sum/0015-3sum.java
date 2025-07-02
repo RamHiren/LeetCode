@@ -16,6 +16,12 @@ class Solution {
                     l.add(a[j]);
                     l.add(a[k]);
                     s.add(l);
+                    while(i<j && a[i] == a[i+1]){
+                        i++;
+                    }
+                    while(i<j && a[j] == a[j-1]){
+                        j--;
+                    }
                     i++;
                     j--;
                 }else if(sum>0){
