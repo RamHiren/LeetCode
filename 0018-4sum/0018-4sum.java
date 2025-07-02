@@ -1,36 +1,30 @@
 class Solution {
-    public List<List<Integer>> fourSum(int[] n, int t) {
-         List <List<Integer>> l1 = new ArrayList<>();
-Arrays.sort(n);
-        for(int i = 0; i < n.length; i++){
-            for(int j = i + 1; j < n.length; j++){
-               int p = j+1;
-               int q = n.length-1;
-               while (p<q) {
-                 long sum = (long)n[i] + (long)n[j] + (long)n[p] + (long)n[q];
+    public List<List<Integer>> fourSum(int[] a, int t) {
+        Arrays.sort(a);
+       HashSet<List<Integer>> s = new HashSet<>();
 
-                  if(sum==t){
-                    List<Integer> l2 = new ArrayList<>();
-                    l2.add(n[i]);
-                    l2.add(n[j]);
-                    l2.add(n[p]);
-                    l2.add(n[q]);
-                    if(!l1.contains(l2)){
-                        l1.add(l2);
+       for(int i=0;i<a.length;i++){
+            for(int j=i+1;j<a.length;j++){
+                int x=j+1;
+                int y=a.length-1;
 
+                while(x<y){
+                    long sum = (long)a[i]+(long)a[j]+(long)a[x]+(long)a[y];
+
+                    if(sum==(long)t){
+                       List<Integer> l = new ArrayList<>();
+                       l.add(a[i]);l.add(a[j]);l.add(a[x]);l.add(a[y]); 
+                       s.add(l);
+                       x++;y--;
+                    }else if(sum>t){
+                        y--;
+                    }else{
+                        x++;
                     }
-                    p++;
-                    q--;
-                  }
-                  else if(sum>t){
-                    q--;
-                  }else if(sum<t){
-                    p++;
-                  }
-
-               }
+                }
             }
-        }
-        return l1;
+       }
+    List<List<Integer>> l = new ArrayList<>(s);
+        return l;
     }
 }
