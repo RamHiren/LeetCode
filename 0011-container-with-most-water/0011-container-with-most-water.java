@@ -2,22 +2,21 @@ class Solution {
     public int maxArea(int[] a) {
         int i=0;
         int j =a.length-1;
-        
+        int max =0;
 
-        int ans =0;
         while(i<j){
-            int w = Math.abs(j - i);
             int h = Math.min(a[i],a[j]);
+            int w = j-i;
 
-            ans = Math.max(ans,w*h);
+            max = Math.max(max,h*w);
 
-            if(a[i]<a[j]){
+            if(h==a[i]){
                 i++;
             }else{
                 j--;
             }
         }
 
-        return ans;
+        return max;
     }
 }
