@@ -4,6 +4,7 @@ class Solution {
         Set<List<Integer>> s = new HashSet<>();
 
         for(int k=0;k<a.length;k++){
+            if(k>0 && a[k]==a[k-1])continue;
             int i=k+1;
             int j=a.length-1;
 
