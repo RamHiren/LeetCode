@@ -830,4 +830,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/RamHiren/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RamHiren/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RamHiren/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/RamHiren/LeetCode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
