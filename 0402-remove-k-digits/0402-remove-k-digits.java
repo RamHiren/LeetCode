@@ -4,33 +4,44 @@ class Solution {
 
         for(int i=0;i<a.length();i++){
             char ch = a.charAt(i);
-
-            while(!s.isEmpty() && k>0 && ch<s.peek()){
+            while(!s.isEmpty() && s.peek()>ch && k>0){
                 s.pop();
                 k--;
             }
             s.push(ch);
         }
 
-        while(!s.isEmpty() && k>0){
+        while(!s.isEmpty() && k-->0){
             s.pop();
-            k--;
         }
 
-        StringBuilder sb = new StringBuilder();
+        System.out.println("Stack "+s);
 
+        StringBuilder ans = new StringBuilder();
+        
         while(!s.isEmpty()){
-            sb.append(s.pop());
+            ans.append(s.pop());
         }
+        ans.reverse();
+        System.out.println("String "+ans);
 
-        sb = sb.reverse();
+        int f=0;
+        int j=0;
 
-        while(sb.length()>0 && sb.charAt(0)=='0'){
-            sb.deleteCharAt(0);
+        if(ans.length()==0) return "0";
+
+        while(f==0  && j<ans.length()){
+            if(ans.charAt(j)!='0'){
+                f++;
+            }else{
+                j++;
+            }
         }
+        if(j==ans.length() && f==0) return "0";
+        String ans1="";
+        ans1 = ans.substring(j);
 
-        if(sb.length()==0)return "0";
 
-        return sb.toString();
+        return ans1;
     }
 }
