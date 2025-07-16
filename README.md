@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/RamHiren/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RamHiren/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RamHiren/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RamHiren/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Simulation
 |  |
 | ------- |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/RamHiren/LeetCode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RamHiren/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1764-maximum-repeating-substring](https://github.com/RamHiren/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RamHiren/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
