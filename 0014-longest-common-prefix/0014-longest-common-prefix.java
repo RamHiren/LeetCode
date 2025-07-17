@@ -8,7 +8,7 @@ class Solution {
             a[i]=strs[i].length();
         }
 
-        System.out.println(Arrays.toString(a));
+        // System.out.println(Arrays.toString(a));
         Arrays.sort(a);
 
         String s ="";
