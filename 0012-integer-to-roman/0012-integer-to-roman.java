@@ -9,6 +9,7 @@ class Solution {
                 str += s[i];
                 n=n-c[i];
             }
+            if(n<=0)break;
         }
         return str;
     }
