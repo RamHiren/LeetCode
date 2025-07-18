@@ -750,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RamHiren/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3782-find-valid-emails](https://github.com/RamHiren/LeetCode/tree/master/3782-find-valid-emails) |
 | [3910-find-books-with-no-available-copies](https://github.com/RamHiren/LeetCode/tree/master/3910-find-books-with-no-available-copies) |
+| [3932-find-covid-recovery-patients](https://github.com/RamHiren/LeetCode/tree/master/3932-find-covid-recovery-patients) |
 ## Design
 |  |
 | ------- |
