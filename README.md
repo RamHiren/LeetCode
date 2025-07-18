@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/RamHiren/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RamHiren/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2102-find-the-middle-index-in-array](https://github.com/RamHiren/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2486-most-frequent-even-element](https://github.com/RamHiren/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RamHiren/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RamHiren/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RamHiren/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/RamHiren/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RamHiren/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RamHiren/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2486-most-frequent-even-element](https://github.com/RamHiren/LeetCode/tree/master/2486-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/RamHiren/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/RamHiren/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RamHiren/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2486-most-frequent-even-element](https://github.com/RamHiren/LeetCode/tree/master/2486-most-frequent-even-element) |
 ## Sorting
 |  |
 | ------- |
