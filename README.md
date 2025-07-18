@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RamHiren/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RamHiren/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/RamHiren/LeetCode/tree/master/0682-baseball-game) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/RamHiren/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/RamHiren/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/RamHiren/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RamHiren/LeetCode/tree/master/0739-daily-temperatures) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/RamHiren/LeetCode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/RamHiren/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/RamHiren/LeetCode/tree/master/0392-is-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/RamHiren/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/RamHiren/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/RamHiren/LeetCode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RamHiren/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/RamHiren/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RamHiren/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/RamHiren/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/RamHiren/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/RamHiren/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RamHiren/LeetCode/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/RamHiren/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RamHiren/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RamHiren/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/RamHiren/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/RamHiren/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/RamHiren/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RamHiren/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/RamHiren/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -903,4 +907,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/RamHiren/LeetCode/tree/master/1916-find-center-of-star-graph) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/RamHiren/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/RamHiren/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
