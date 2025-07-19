@@ -1,11 +1,13 @@
 class Solution {
     public int findDuplicate(int[] a) {
         Arrays.sort(a);
-        for(int i=0;i<a.length;i++){
-            if(a[i]==a[i+1]){
+
+        for(int i=1;i<a.length;i++){
+            if(a[i-1]==a[i]){
                 return a[i];
             }
         }
-        return -1;
+
+        return 0;
     }
 }
